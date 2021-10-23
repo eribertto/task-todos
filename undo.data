@@ -12,3 +12,24 @@ time 1634989142
 old [description:"install task cli todo manager in manjaro box" entry:"1634988296" modified:"1634988296" status:"pending" tags:"linux,manjaro" tags_linux:"x" tags_manjaro:"x" uuid:"5c1f8701-1273-4ddf-bb8e-2e173d1f8035"]
 new [description:"install task cli todo manager in manjaro box" end:"1634989142" entry:"1634988296" modified:"1634989142" status:"completed" tags:"linux,manjaro" tags_linux:"x" tags_manjaro:"x" uuid:"5c1f8701-1273-4ddf-bb8e-2e173d1f8035"]
 ---
+time 1634990565
+new [description:"install and follow intheam instruction https:\/\/github.com\/coddingtonbear\/taskwarrior-inthe.am" entry:"1634990565" modified:"1634990565" status:"pending" uuid:"3fc52b36-1ef5-475e-98f8-07872556db2b"]
+---
+time 1634990604
+old [description:"install and follow intheam instruction https:\/\/github.com\/coddingtonbear\/taskwarrior-inthe.am" entry:"1634990565" modified:"1634990565" status:"pending" uuid:"3fc52b36-1ef5-475e-98f8-07872556db2b"]
+new [description:"install and follow intheam instruction https:\/\/github.com\/coddingtonbear\/taskwarrior-inthe.am" entry:"1634990565" modified:"1634990604" status:"pending" tags:"app,todo" tags_app:"x" tags_todo:"x" uuid:"3fc52b36-1ef5-475e-98f8-07872556db2b"]
+---
+time 1634991100
+old [description:"install and follow intheam instruction https:\/\/github.com\/coddingtonbear\/taskwarrior-inthe.am" entry:"1634990565" modified:"1634990604" status:"pending" tags:"app,todo" tags_app:"x" tags_todo:"x" uuid:"3fc52b36-1ef5-475e-98f8-07872556db2b"]
+new [description:"install and follow intheam instruction https:\/\/github.com\/coddingtonbear\/taskwarrior-inthe.am" end:"1634991100" entry:"1634990565" modified:"1634991100" status:"completed" tags:"app,todo" tags_app:"x" tags_todo:"x" uuid:"3fc52b36-1ef5-475e-98f8-07872556db2b"]
+---
+time 1634991253
+new [description:"failed to setup intheam as per this link https:\/\/github.com\/coddingtonbear\/taskwarrior-inthe.am" entry:"1634991253" modified:"1634991253" status:"pending" uuid:"81d4e1f9-c99c-4338-81c1-ebd2397ff92e"]
+---
+time 1634991268
+old [description:"failed to setup intheam as per this link https:\/\/github.com\/coddingtonbear\/taskwarrior-inthe.am" entry:"1634991253" modified:"1634991253" status:"pending" uuid:"81d4e1f9-c99c-4338-81c1-ebd2397ff92e"]
+new [description:"failed to setup intheam as per this link https:\/\/github.com\/coddingtonbear\/taskwarrior-inthe.am" entry:"1634991253" modified:"1634991268" status:"pending" tags:"todo" tags_todo:"x" uuid:"81d4e1f9-c99c-4338-81c1-ebd2397ff92e"]
+---
+time 1634991332
+new [description:"success intalling python pip following this link https:\/\/pip.pypa.io\/en\/latest\/installation\/" entry:"1634991332" modified:"1634991332" status:"pending" tags:"python" tags_python:"x" uuid:"5e2008c1-466f-49bf-9f31-5434676613af"]
+---
